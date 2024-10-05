@@ -3,6 +3,10 @@
 
 H₂SOL combines diving with decentralized technology to create a unique and engaging ecosystem for divers. The platform introduces *gamification* and *tokenomics* to enhance the diving experience, using a token called *BUBBLE* as a reward for dives. H₂SOL encourages divers to explore different depths, locations, and times, making the experience diverse and exciting.
 
+### Team:
+- ⁠*Lim Bing Feng*: Diving Evangelist and Data Science Specialist.
+- ⁠*Calvin Koay*: Diving Evangelist and Crypto Trader.
+
 ### Key Features:
 - ⁠*Problem*: Traditional dive logs are boring and lack engagement.
 - ⁠⁠*Solution*: H₂SOL uses technology and decentralization to gamify diving and incentivize exploration.⁠
@@ -14,12 +18,8 @@ H₂SOL combines diving with decentralized technology to create a unique and eng
 ### Mission:
 To revolutionize the diving experience by merging it with blockchain technology, making it more rewarding and engaging for users. 
 
-### Team:
-- ⁠*Bing Feng*: Diving Evangelist and Data Science Specialist.
-- ⁠*Calvin Koay*: Diving Evangelist and Crypto Trader.
-
 ### Links:
 - Figma Mobile App Prototype: https://www.figma.com/design/yy4QYD0jcrc5g2KsMy46Jh/Mobile-Prototype?node-id=0-1&t=hIWrRp3eTGLx9YiK
 - Pitch Deck: https://1drv.ms/p/s!Ao5b6X4vrv9Qgf0svOlj7m5YvN7Lkg?e=eR7mpa
-- Twitter account: 0xh2sol
+- Twitter account: https://x.com/0xh2sol
 - Youtube: https://youtu.be/nqq5jVysJhA
