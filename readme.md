@@ -1,7 +1,7 @@
 # **H2SOL**
-*Dive Deeper, Earn Smarter*
+####*Dive Deeper, Earn Smarter*
 
-H₂SOL combines diving with decentralized technology to create a unique and engaging ecosystem for divers. The platform introduces *gamification* and *tokenomics* to enhance the diving experience, using a token called *BUBBLE* as a reward for dives. H₂SOL encourages divers to explore different depths, locations, and times, making the experience diverse and exciting.
+##H₂SOL combines diving with decentralized technology to create a unique and engaging ecosystem for divers. The platform introduces *gamification* and *tokenomics* to enhance the diving experience, using a token called *BUBBLE* as a reward for dives. H₂SOL encourages divers to explore different depths, locations, and times, making the experience diverse and exciting.
 
 ### Key Features:
 1.⁠ ⁠*Problem*: Traditional dive logs are boring and lack engagement.
@@ -15,10 +15,8 @@ H₂SOL combines diving with decentralized technology to create a unique and eng
 To revolutionize the diving experience by merging it with blockchain technology, making it more rewarding and engaging for users. 
 
 ### Team:
-•⁠  ⁠*Bing Feng*: Diving Evangelist and Data Science Specialist.
-•⁠  ⁠*Calvin Koay*: Diving Evangelist and Crypto Trader.
-
-
+- ⁠*Bing Feng*: Diving Evangelist and Data Science Specialist.
+- ⁠*Calvin Koay*: Diving Evangelist and Crypto Trader.
 
 ### Links:
 - Figma Mobile App Prototype: https://www.figma.com/design/yy4QYD0jcrc5g2KsMy46Jh/Mobile-Prototype?node-id=0-1&t=hIWrRp3eTGLx9YiK
