@@ -1,5 +1,5 @@
 # **H2SOL**
-*Dive Deeper, Earn Smarter* \
+*Dive Deeper, Earn Smarter* 
 
 H₂SOL combines diving with decentralized technology to create a unique and engaging ecosystem for divers. The platform introduces *gamification* and *tokenomics* to enhance the diving experience, using a token called *BUBBLE* as a reward for dives. H₂SOL encourages divers to explore different depths, locations, and times, making the experience diverse and exciting.
 
