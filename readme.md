@@ -19,7 +19,7 @@ H₂SOL combines diving with decentralized technology to create a unique and eng
 To revolutionize the diving experience by merging it with blockchain technology, making it more rewarding and engaging for users. 
 
 ### Links:
-- Figma Mobile App Prototype: https://www.figma.com/design/yy4QYD0jcrc5g2KsMy46Jh/Mobile-Prototype?node-id=0-1&t=hIWrRp3eTGLx9YiK
+- Figma (Click Play For Mobile App Prototype): https://www.figma.com/design/yy4QYD0jcrc5g2KsMy46Jh/Mobile-Prototype?node-id=0-1&t=hIWrRp3eTGLx9YiK
 - Pitch Deck: https://1drv.ms/p/s!Ao5b6X4vrv9Qgf0svOlj7m5YvN7Lkg?e=eR7mpa
 - Twitter account: https://x.com/0xh2sol
 - Youtube: https://youtu.be/nqq5jVysJhA
